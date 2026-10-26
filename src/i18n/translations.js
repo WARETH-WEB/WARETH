@@ -9,6 +9,7 @@ export const translations = {
     langSwitch: "EN",
     langSwitchLabel: "التبديل إلى الإنجليزية",
     logoAlt: "شعار وَرِيثُ",
+    subtitle: "كل أثرٍ بدأ بفكرة",
     nav: {
       experience: "التجربة",
       world: "العالم",
@@ -24,6 +25,7 @@ export const translations = {
   },
   en: {
     brand: "WARITH",
+    subtitle: "Every Artifact Began With An Idea",
     tagline: "Where The Legacy Lives",
     tapHint: "Tap anywhere to continue",
     greeting: "Welcome, Warith",
